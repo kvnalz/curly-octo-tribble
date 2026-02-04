@@ -1,3 +1,66 @@
+Version 1.4.5.4 Changes -------------------------------------------------------------------------------------------
+
+I. Content & Additions
+
+- Unlocked Secret Seeds can now be toggled on and off via a new menu, accessed through the Secret Seed button.
+- You can bulk buy and craft items in batches of 10 by holding Left Shift.
+- You can now craft Pine Platforms from Pine Wood as well as Pine Tree blocks.
+- Leashed kites and placed critters no longer break if they lack an anchor.
+- Toybreaker Bricks now break Release Lanterns.
+- Renamed the This is Canon Now painting to Brasilian Skies.
+- The Constant + Skyblock seed worlds no longer display the Radio Thing's effect by default.
+- Added 1.4.5's resprited sand piles' old versions to the Rubblemaker.
+- Bad luck no longer breaks watches.
+- The special rules for worlds with few blocks now (retroactively) only apply to worlds that were generated with the Skyblock seed.
+
+II. Balance
+
+- Fully Restored Whip's hitbox to match 1.4.4's, and adjusted the backswing's visuals to match it (The swing now always collides as if its up-to-down, for damage consistency).
+- Improved Mushroom Staff's damage from 5 to 8. We're still keeping an eye on it.
+- Improved Thunder Zapper's damage from 20 to 24.
+- Reduced Flinx Fur Staff's Flinx Fur cost from 10 to 6 (same as pre-1.4.5).
+- Clouds can now be mined twice as fast.
+
+III. Bug Fixes & Performance
+
+- Optimized Spore Sac's code in multiplayer.
+- Fixed villagers refusing to arrive if Truffle is homeless. (Yes, It was Truffle all along.)
+- Fixed inputs sometimes not registering when playing at a low framerate.
+- Fixed worlds failing to due to a bug involving placed critters (affected worlds are fine and will now load successfully).
+- Fixed the Screen Shake option's value not persisting between sessions.
+- Fixed quick stacking items to nearby chests in multiplayer not making thpse items available for other players who have craft from nearby chests enabled.
+- Fixed the Chain Knife not being dropped in pre-Hardmode.
+- Fixed a crash caused by the Book Worm achievement.
+- Fixed Pine Wood blocks sometimes being invisible.
+- Fixed a typo in the Logic Gate (XOR)'s tooltip.
+- Fixed several cases in which the Dungeon entrance would be on a Floating Island.
+- Fixed Sandstorm visuals not appearing in Crimson or Hallow Deserts.
+- Fixed the Empress of Light's Treasure Bag dropping 1 Prismatic Dye instead of 3.
+- Fixed being unable to quick-equip the Reindeer Bells.
+- Fixed a number of fences not having any map colors, and improved the colors of some of the fences that did.
+- Fixed a missing pixel in Master Mode's defense counter.
+- Fixed Snow biome's Aurora effect not fading out when returning to the title screen.
+- Fixed Roller Skates erronously granting immunity to fire blocks.
+- Fixed exploit involving Roller Skates and wings.
+- Fixed the Skyblock seed not granting the A Rare Realm achievement.
+- Fixed Digtoise not disappearing during the Old One's Army event.
+- Fixed several localization errors.
+- Fixed the inventory UI becoming unresponsive if autopause is enabled when opening the inventory while using an item.
+- Fixed the Snowball Launcher missing its "Wireable" tooltip.
+- Fixed an item duplication exploit involving transformation mounts.
+- Fixed the Chillet mounts being able to move through solid blocks.
+- Fixed an exploit involving high mining speeds and certain melee weapons.
+- Fixed several multiplayer issues on Skyblock worlds. 
+- Fixed erronous messages appearing when playing on the Endless Christmas secret seed.
+- Fixed the Hallowed biome's background rainbow sometimes flickering when moving.
+- Fixed an issue where placing Hallowed blocks in certain biomes could sometimes break the background.
+- Fixed the craft buttons overlapping the chest inventory at certain UI scales when using gamepad.
+- Fixed a crash involving chests and dressers placed on certain platforms configurations.
+- Fixed the last item in the Tavernkeep's shop. Tavernkeep no longer sells Town Pylons in order to accommodate his fully unlocked store.
+- Fixed a bug with minecart tracks that could allow you to slide on air.
+- Fixed several Linux issues.
+
+
 Version 1.4.5.3 Changes -------------------------------------------------------------------------------------------
 
 I. Content & Additions
